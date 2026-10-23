@@ -2,8 +2,8 @@ lang: es
 locale: es_ES
 home: /es/
 language_label: Elegir idioma
-title: "Ting Radio — El mundo, a tu ritmo"
-description: "Descubre la radio en directo, guarda las canciones que encuentras y haz sitio para escuchar con Ting Radio. Encuentra tu próxima emisora favorita."
+title: "TuneRadar — El mundo, a tu ritmo"
+description: "Descubre la radio en directo, guarda las canciones que encuentras y haz sitio para escuchar con TuneRadar. Encuentra tu próxima emisora favorita."
 skip: Ir al contenido
 nav_label: Navegación principal
 nav_discover: La app
@@ -17,16 +17,16 @@ hero_title_2: a tu ritmo.
 hero_body: "Descubre la radio en directo, identifica las canciones que escuchas y ten tus favoritos a mano. Una app nativa para tus dispositivos Apple."
 hero_link: Mira cómo es por dentro
 hero_note: "Descarga gratuita · Para tus dispositivos Apple"
-hero_image_alt: Ting Radio reproduciendo Classic Vinyl HD en un iPhone, con información de la canción y una visualización de audio
+hero_image_alt: TuneRadar reproduciendo Classic Vinyl HD en un iPhone, con información de la canción y una visualización de audio
 hero_caption: Un pequeño espacio para escuchar.
 hero_tag_1: Tu próxima tarde de jazz
 hero_tag_2: Concentrarte con calma
 hero_tag_3: Un lugar por descubrir
-intro_label: Una nueva etapa para Ting Radio
+intro_label: Una nueva etapa para TuneRadar
 intro_text: "Menos buscar. Más escuchar. Una app nativa renovada que reúne los descubrimientos, tus emisoras favoritas y las canciones que encuentras por el camino."
-discovery_eyebrow: DENTRO DE TING RADIO
+discovery_eyebrow: DENTRO DE TuneRadar
 discovery_title: "Elige una emisora.\nQuédate a descubrir."
-discovery_body: "Desde elegir tu próxima emisora hasta recordar una canción, un vistazo a cómo funciona Ting Radio."
+discovery_body: "Desde elegir tu próxima emisora hasta recordar una canción, un vistazo a cómo funciona TuneRadar."
 discovery_note: "Los descubrimientos se basan en tus preferencias y tu historial de escucha. Los favoritos y las URL de emisoras personalizadas mantienen cerca tu propio rincón de la radio."
 discovery_items:
   - {name: Jazz, detail: Una tarde sin prisas., image: jazz.webp, alt: Un saxofón iluminado con luz cálida, kind: Género}
@@ -73,14 +73,14 @@ devices:
 faq_eyebrow: ANTES DE SINTONIZAR
 faq_title: Lo que conviene saber.
 faqs:
-  - question: ¿Ting Radio es gratis?
-    answer: "La descarga de Ting Radio es gratuita. Incluye la escucha diaria de radio, los favoritos, las emisoras personalizadas y las duraciones predefinidas del temporizador de apagado. Pro añade más formas de disfrutar de tus emisoras."
+  - question: ¿TuneRadar es gratis?
+    answer: "La descarga de TuneRadar es gratuita. Incluye la escucha diaria de radio, los favoritos, las emisoras personalizadas y las duraciones predefinidas del temporizador de apagado. Pro añade más formas de disfrutar de tus emisoras."
   - question: ¿Puedo escuchar sin conexión o grabar un programa?
-    answer: "Ting Radio transmite radio en directo por internet. No ofrece grabaciones sin conexión ni la posibilidad de volver a escuchar programas. Las emisoras controlan sus propias transmisiones, su contenido y su disponibilidad."
+    answer: "TuneRadar transmite radio en directo por internet. No ofrece grabaciones sin conexión ni la posibilidad de volver a escuchar programas. Las emisoras controlan sus propias transmisiones, su contenido y su disponibilidad."
   - question: ¿Se sincroniza todo entre mis dispositivos?
-    answer: "Ting Radio permite sincronizar emisoras entre el iPhone y su Apple Watch enlazado. No se promete una sincronización completa de la biblioteca mediante una cuenta en todas las plataformas."
+    answer: "TuneRadar permite sincronizar emisoras entre el iPhone y su Apple Watch enlazado. No se promete una sincronización completa de la biblioteca mediante una cuenta en todas las plataformas."
   - question: ¿Pro elimina los anuncios de las emisoras?
-    answer: "Los anuncios emitidos por una emisora forman parte de su propia transmisión de audio. Ting Radio no puede eliminarlos y Pro no incluye la eliminación de anuncios."
+    answer: "Pro elimina los anuncios de la aplicación. La publicidad emitida por las emisoras no se elimina."
 cta_eyebrow: SIEMPRE HAY ALGO EN ANTENA
 cta_title: Tu próxima frecuencia favorita.
 cta_body: Haz un pequeño espacio para la música, las voces y el mundo exterior.
@@ -90,24 +90,24 @@ footer_privacy: Política de privacidad
 footer_terms: Condiciones del servicio
 privacy_url: /privacypolicy/
 terms_url: /termsofservice/
-back_home: Volver a Ting Radio
-legal_context: Acerca de Ting Radio
+back_home: Volver a TuneRadar
+legal_context: Acerca de TuneRadar
 not_found_title: Esta frecuencia está en silencio.
-not_found_body: La página que buscas puede haber cambiado de sitio. Volvamos a Ting Radio.
+not_found_body: La página que buscas puede haber cambiado de sitio. Volvamos a TuneRadar.
 screens_note: Las imágenes de la app muestran la interfaz en inglés.
 showcase_items:
   - image: genres-en.webp
     title: Encuentra tu frecuencia
     body: Explora por género, estado de ánimo, región o idioma. Sigue tu curiosidad.
-    alt: El explorador de géneros de Ting Radio en inglés en un iPhone, con categorías musicales y un minirreproductor
+    alt: El explorador de géneros de TuneRadar en inglés en un iPhone, con categorías musicales y un minirreproductor
   - image: player-en.webp
     title: Déjate llevar por el sonido
     body: Tu emisora, la información de la canción y los controles que necesitas en un solo lugar.
-    alt: El reproductor de Ting Radio en inglés en un iPhone, reproduciendo Classic Vinyl HD con una visualización de audio
+    alt: El reproductor de TuneRadar en inglés en un iPhone, reproduciendo Classic Vinyl HD con una visualización de audio
   - image: song-history-en.webp
     title: Recuerda lo que escuchaste
     body: Vuelve a la información de las canciones y a la emisora donde las descubriste.
-    alt: El historial de canciones de Ting Radio en inglés en un iPhone, con canciones escuchadas en Classic Vinyl HD y Frisky
+    alt: El historial de canciones de TuneRadar en inglés en un iPhone, con canciones escuchadas en Classic Vinyl HD y Frisky
 features_eyebrow: ESCUCHA A TU MANERA
 features_title: Un poco más en cada escucha.
 features_body: Lo esencial para cada día está incluido. Pro añade más formas de disfrutar de tus emisoras.
@@ -136,4 +136,4 @@ feature_items:
     title: Despertar con radio
     body: Elige una emisora para tu rutina de mañana. Toca Abrir emisora después de que suene la alarma del sistema para empezar a escuchar.
     entitlement: Pro · iOS 26+
-everyday_image_alt: El temporizador de apagado de Ting Radio en inglés en un iPhone, con duraciones predefinidas y la opción de un temporizador personalizado
+everyday_image_alt: El temporizador de apagado de TuneRadar en inglés en un iPhone, con duraciones predefinidas y la opción de un temporizador personalizado

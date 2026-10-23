@@ -1,11 +1,11 @@
 <footer class="site-footer container">
   <div class="footer-top">
-    <div><a class="brand footer-brand" href="{{ t.home | relative_url }}"><img src="{{ '/assets/images/app-icon.png' | relative_url }}" width="36" height="36" alt=""><span>Ting Radio</span></a><p>{{ t.footer_tagline }}</p></div>
+    <div><a class="brand footer-brand" href="{{ t.home | relative_url }}"><img src="{{ '/assets/images/app-icon.png' | relative_url }}" width="36" height="36" alt=""><span>TuneRadar</span></a><p>{{ t.footer_tagline }}</p></div>
     <nav class="footer-links" aria-label="{{ t.footer_support }}">
       <a href="mailto:{{ site.email_address }}">{{ t.footer_support }}</a>
       <a href="{{ t.privacy_url | relative_url }}" hreflang="en">{{ t.footer_privacy }}{% unless t.lang == 'en' %} <span lang="en">(English)</span>{% endunless %}</a>
       <a href="{{ t.terms_url | relative_url }}" hreflang="en">{{ t.footer_terms }}{% unless t.lang == 'en' %} <span lang="en">(English)</span>{% endunless %}</a>
     </nav>
   </div>
-  <div class="footer-bottom"><p>© {{ site.time | date: '%Y' }} Ting Radio</p></div>
+  <div class="footer-bottom"><p>© {{ site.time | date: '%Y' }} TuneRadar</p></div>
 </footer>

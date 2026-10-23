@@ -2,8 +2,8 @@ lang: zh-Hans
 locale: zh_CN
 home: /zh/
 language_label: 选择语言
-title: "Ting Radio — 让世界的声音，陪伴每一天"
-description: "发现喜欢的电台，记住偶遇的好歌，让 Ting Radio 陪伴日常。找到你的下一座好电台。"
+title: "TuneRadar — 让世界的声音，陪伴每一天"
+description: "发现喜欢的电台，记住偶遇的好歌，让 TuneRadar 陪伴日常。找到你的下一座好电台。"
 skip: 跳到主要内容
 nav_label: 主导航
 nav_discover: App 一览
@@ -17,16 +17,16 @@ hero_title_2: 陪伴每一天。
 hero_body: "发现直播电台，识别听见的好歌，把喜欢的声音留在身边。为你的 Apple 设备打造的原生 App。"
 hero_link: 看看 App 界面
 hero_note: "免费下载 · 在 Apple 设备上自然相伴"
-hero_image_alt: iPhone 上的 Ting Radio 正在播放 Classic Vinyl HD，并显示歌曲信息与音频可视化
+hero_image_alt: iPhone 上的 TuneRadar 正在播放 Classic Vinyl HD，并显示歌曲信息与音频可视化
 hero_caption: 留一点时间，听听世界。
 hero_tag_1: 午后的爵士时光
 hero_tag_2: 安静一点，更专注
 hero_tag_3: 去听新的地方
-intro_label: Ting Radio 的新篇章
+intro_label: TuneRadar 的新篇章
 intro_text: "少一点寻找，多一点聆听。焕新的原生 App，把电台发现、日常收藏和听见的好歌，轻轻连接起来。"
-discovery_eyebrow: 走进 TING RADIO
+discovery_eyebrow: 走进 TuneRadar
 discovery_title: "找到一座电台，\n听见更多惊喜。"
-discovery_body: "从选择下一座电台，到记住偶遇的好歌，看看 Ting Radio 如何陪你聆听。"
+discovery_body: "从选择下一座电台，到记住偶遇的好歌，看看 TuneRadar 如何陪你聆听。"
 discovery_note: "发现内容会参考你的偏好与收听记录。收藏喜欢的电台，也可以通过自定义电台地址，把熟悉的声音留在身边。"
 discovery_items:
   - {name: 爵士, detail: 让午后慢一点。, image: jazz.webp, alt: 暖光下的萨克斯, kind: 曲风}
@@ -73,14 +73,14 @@ devices:
 faq_eyebrow: 开始聆听之前
 faq_title: 你可能想知道。
 faqs:
-  - question: Ting Radio 是免费的吗？
-    answer: "Ting Radio 可以免费下载。日常电台收听、收藏、自定义电台和睡眠定时预设均包含在免费版中，Pro 则提供更多收听功能。"
+  - question: TuneRadar 是免费的吗？
+    answer: "TuneRadar 可以免费下载。日常电台收听、收藏、自定义电台和睡眠定时预设均包含在免费版中，Pro 则提供更多收听功能。"
   - question: 可以离线听，或者录下节目吗？
-    answer: "Ting Radio 通过互联网收听直播电台。不提供离线录音或节目回放。电台自行决定音频内容与服务可用性。"
+    answer: "TuneRadar 通过互联网收听直播电台。不提供离线录音或节目回放。电台自行决定音频内容与服务可用性。"
   - question: 所有设备都会同步吗？
-    answer: "Ting Radio 支持 iPhone 与配对 Apple Watch 的电台协同同步；目前不承诺所有平台之间的账户曲库同步。"
+    answer: "TuneRadar 支持 iPhone 与配对 Apple Watch 的电台协同同步；目前不承诺所有平台之间的账户曲库同步。"
   - question: Pro 能去掉电台里的广告吗？
-    answer: "电台播出的广告属于其自身音频流，Ting Radio 无法移除。Pro 权益也不包含去广告。"
+    answer: "Pro 可移除应用内广告；电台节目自身的广告不受影响。"
 cta_eyebrow: 总有声音，值得停留
 cta_title: 遇见你的下一段好声音。
 cta_body: 留一点时间，让音乐、人声和世界走进日常。
@@ -90,24 +90,24 @@ footer_privacy: 隐私政策
 footer_terms: 服务条款
 privacy_url: /privacypolicy/
 terms_url: /termsofservice/
-back_home: 返回 Ting Radio
-legal_context: 关于 Ting Radio
+back_home: 返回 TuneRadar
+legal_context: 关于 TuneRadar
 not_found_title: 这个频率，暂时安静。
-not_found_body: 你要找的页面可能已经移动。回到 Ting Radio，继续探索。
+not_found_body: 你要找的页面可能已经移动。回到 TuneRadar，继续探索。
 screens_note: 图中 App 界面为英文。
 showcase_items:
   - image: genres-en.webp
     title: 找到此刻的频率
     body: 从曲风、心情、地区或语言出发，让好奇心带你继续探索。
-    alt: iPhone 上 Ting Radio 的英文曲风浏览界面，显示音乐分类与迷你播放器
+    alt: iPhone 上 TuneRadar 的英文曲风浏览界面，显示音乐分类与迷你播放器
   - image: player-en.webp
     title: 安心听一会儿
     body: 电台、歌曲信息和播放控制，在同一个地方轻松找到。
-    alt: iPhone 上 Ting Radio 的英文播放器，正在播放 Classic Vinyl HD 并显示音频可视化
+    alt: iPhone 上 TuneRadar 的英文播放器，正在播放 Classic Vinyl HD 并显示音频可视化
   - image: song-history-en.webp
     title: 记住听见的好歌
     body: 回顾歌曲信息，也找回发现它的那座电台。
-    alt: iPhone 上 Ting Radio 的英文歌曲历史，显示在 Classic Vinyl HD 和 Frisky 听见的歌曲
+    alt: iPhone 上 TuneRadar 的英文歌曲历史，显示在 Classic Vinyl HD 和 Frisky 听见的歌曲
 features_eyebrow: 按你的方式，安心聆听
 features_title: 每次聆听，多一点喜欢。
 features_body: 日常收听所需的功能免费提供。Pro 带来更多享受电台的方式。
@@ -136,4 +136,4 @@ feature_items:
     title: 电台自动叫醒
     body: 选择清晨想听的电台。系统闹钟响铃后，点按「打开电台」开始收听。
     entitlement: Pro · iOS 26+
-everyday_image_alt: iPhone 上 Ting Radio 的英文睡眠定时界面，显示预设时长与自定义定时选项
+everyday_image_alt: iPhone 上 TuneRadar 的英文睡眠定时界面，显示预设时长与自定义定时选项

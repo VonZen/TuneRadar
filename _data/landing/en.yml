@@ -2,8 +2,8 @@ lang: en
 locale: en_US
 home: /
 language_label: Choose language
-title: "Ting Radio — The world, tuned to you"
-description: "Discover live radio, remember songs, and make room for listening with Ting Radio. Find your next favourite station."
+title: "TuneRadar — The world, tuned to you"
+description: "Discover live radio, remember songs, and make room for listening with TuneRadar. Find your next favourite station."
 skip: Skip to content
 nav_label: Main navigation
 nav_discover: The app
@@ -17,16 +17,16 @@ hero_title_2: tuned to you.
 hero_body: "Discover live radio, identify songs you hear, and keep your favourites close. A native app for your Apple devices."
 hero_link: Take a look inside
 hero_note: "Free to download · Made for your Apple devices"
-hero_image_alt: Ting Radio playing Classic Vinyl HD on iPhone, with song information and an audio visualisation
+hero_image_alt: TuneRadar playing Classic Vinyl HD on iPhone, with song information and an audio visualisation
 hero_caption: A little room to listen.
 hero_tag_1: Your next jazz afternoon
 hero_tag_2: A quieter kind of focus
 hero_tag_3: Somewhere new
-intro_label: A new chapter for Ting Radio
+intro_label: A new chapter for TuneRadar
 intro_text: "Less searching. More listening. A refreshed native app that brings discovery, your favourite stations, and the songs you find along the way closer together."
-discovery_eyebrow: INSIDE TING RADIO
+discovery_eyebrow: INSIDE TuneRadar
 discovery_title: "Find a station.\nStay for the discoveries."
-discovery_body: "From choosing your next station to remembering a song, a little look at the way Ting Radio works."
+discovery_body: "From choosing your next station to remembering a song, a little look at the way TuneRadar works."
 discovery_note: "Discovery draws on your preferences and listening history. Favourites and custom station URLs keep your own corner of radio close."
 discovery_items:
   - {name: Jazz, detail: A slower afternoon., image: jazz.webp, alt: A warmly lit saxophone, kind: Genre}
@@ -73,14 +73,14 @@ devices:
 faq_eyebrow: BEFORE YOU TUNE IN
 faq_title: A few things to know.
 faqs:
-  - question: Is Ting Radio free?
-    answer: "Ting Radio is free to download. Everyday radio listening, favourites, custom stations, and sleep-timer presets are included. Pro adds more ways to enjoy your stations."
+  - question: Is TuneRadar free?
+    answer: "TuneRadar is free to download. Everyday radio listening, favourites, custom stations, and sleep-timer presets are included. Pro adds more ways to enjoy your stations."
   - question: Can I listen offline or record a show?
-    answer: "Ting Radio streams live radio over the internet. It does not offer offline recordings or programme replay. Stations control their own streams, content, and availability."
+    answer: "TuneRadar streams live radio over the internet. It does not offer offline recordings or programme replay. Stations control their own streams, content, and availability."
   - question: Will everything sync across my devices?
-    answer: "Ting Radio supports companion station sync between iPhone and its paired Apple Watch. Full account-based library sync across all platforms is not promised."
+    answer: "TuneRadar supports companion station sync between iPhone and its paired Apple Watch. Full account-based library sync across all platforms is not promised."
   - question: Does Pro remove ads from radio stations?
-    answer: "Ads broadcast by a station are part of its own audio stream. Ting Radio cannot remove them, and Pro does not include ad removal."
+    answer: "Pro removes in-app ads. Broadcasters may still include advertising in their streams."
 cta_eyebrow: THERE’S ALWAYS SOMETHING ON
 cta_title: Find your next favourite frequency.
 cta_body: Make a little room for music, voices, and the world outside.
@@ -90,24 +90,24 @@ footer_privacy: Privacy policy
 footer_terms: Terms of service
 privacy_url: /privacypolicy/
 terms_url: /termsofservice/
-back_home: Back to Ting Radio
-legal_context: About Ting Radio
+back_home: Back to TuneRadar
+legal_context: About TuneRadar
 not_found_title: This frequency is quiet.
-not_found_body: The page you’re looking for may have moved. Let’s get you back to Ting Radio.
+not_found_body: The page you’re looking for may have moved. Let’s get you back to TuneRadar.
 screens_note: App screens shown in English.
 showcase_items:
   - image: genres-en.webp
     title: Find your frequency
     body: Browse by genre, mood, region, or language. Follow your curiosity.
-    alt: Ting Radio’s English genre browser on iPhone, with music categories and a mini player
+    alt: TuneRadar’s English genre browser on iPhone, with music categories and a mini player
   - image: player-en.webp
     title: Settle into the sound
     body: Your station, its song information, and the controls you need in one place.
-    alt: Ting Radio’s English player on iPhone, playing Classic Vinyl HD with audio visualisation
+    alt: TuneRadar’s English player on iPhone, playing Classic Vinyl HD with audio visualisation
   - image: song-history-en.webp
     title: Remember what you heard
     body: Revisit song information and the station where you found it.
-    alt: Ting Radio’s English song history on iPhone, showing tracks heard on Classic Vinyl HD and Frisky
+    alt: TuneRadar’s English song history on iPhone, showing tracks heard on Classic Vinyl HD and Frisky
 features_eyebrow: YOUR LISTENING, YOUR WAY
 features_title: A little more in every listen.
 features_body: Everyday essentials are included. Pro adds more ways to enjoy your stations.
@@ -136,4 +136,4 @@ feature_items:
     title: Radio wake-up
     body: Choose a station for your morning routine. Tap Open Station after the system alarm rings to start listening.
     entitlement: Pro · iOS 26+
-everyday_image_alt: Ting Radio’s English sleep timer on iPhone, with preset durations and a custom timer option
+everyday_image_alt: TuneRadar’s English sleep timer on iPhone, with preset durations and a custom timer option

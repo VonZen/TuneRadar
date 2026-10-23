@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#fffaf6">
   {% assign document_title = page.seo_title | default: t.title %}
-  {% if page.collection == 'pages' %}{% capture document_title %}{{ page.title }} — Ting Radio{% endcapture %}{% endif %}
+  {% if page.collection == 'pages' %}{% capture document_title %}{{ page.title }} — TuneRadar{% endcapture %}{% endif %}
   <title>{{ document_title | escape }}</title>
   <meta name="description" content="{{ page.description | default: t.description | escape }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
@@ -17,15 +17,15 @@
   <link rel="alternate" hreflang="x-default" href="{{ default_path | strip | absolute_url }}">
   {% endif %}
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Ting Radio">
+  <meta property="og:site_name" content="TuneRadar">
   <meta property="og:title" content="{{ document_title | escape }}">
   <meta property="og:description" content="{{ page.description | default: t.description | escape }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:locale" content="{{ t.locale }}">
   {% if page.translated %}{% for locale in site.data.languages %}{% unless locale.key == language %}<meta property="og:locale:alternate" content="{{ locale.locale }}">{% endunless %}{% endfor %}{% endif %}
-  <meta property="og:image" content="{{ '/assets/images/social.jpg' | absolute_url }}">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
+  <meta property="og:image" content="{{ '/assets/images/social-tuneradar.png' | absolute_url }}">
+  <meta property="og:image:width" content="3840">
+  <meta property="og:image:height" content="1646">
   <meta property="og:image:alt" content="{{ t.title | escape }}">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="{{ '/assets/images/app-icon.png' | relative_url }}" type="image/png">

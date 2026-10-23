@@ -2,8 +2,8 @@ lang: pl
 locale: pl_PL
 home: /pl/
 language_label: Wybierz język
-title: "Ting Radio — Świat na Twojej fali"
-description: "Odkrywaj radio na żywo, zapamiętuj piosenki i znajdź czas na słuchanie z Ting Radio. Znajdź swoją kolejną ulubioną stację."
+title: "TuneRadar — Świat na Twojej fali"
+description: "Odkrywaj radio na żywo, zapamiętuj piosenki i znajdź czas na słuchanie z TuneRadar. Znajdź swoją kolejną ulubioną stację."
 skip: Przejdź do treści
 nav_label: Nawigacja główna
 nav_discover: Aplikacja
@@ -17,16 +17,16 @@ hero_title_2: na Twojej fali.
 hero_body: "Odkrywaj radio na żywo, rozpoznawaj usłyszane piosenki i miej ulubione stacje pod ręką. Natywna aplikacja na Twoje urządzenia Apple."
 hero_link: Zajrzyj do środka
 hero_note: "Bezpłatne pobieranie · Dla Twoich urządzeń Apple"
-hero_image_alt: Ting Radio na iPhonie odtwarza Classic Vinyl HD i pokazuje informacje o utworze oraz wizualizację dźwięku
+hero_image_alt: TuneRadar na iPhonie odtwarza Classic Vinyl HD i pokazuje informacje o utworze oraz wizualizację dźwięku
 hero_caption: Trochę miejsca na słuchanie.
 hero_tag_1: Kolejne popołudnie z jazzem
 hero_tag_2: Spokojniejsze skupienie
 hero_tag_3: Gdzieś indziej
-intro_label: Nowy rozdział Ting Radio
+intro_label: Nowy rozdział TuneRadar
 intro_text: "Mniej szukania. Więcej słuchania. Odświeżona natywna aplikacja łączy odkrywanie, ulubione stacje i utwory napotkane po drodze."
-discovery_eyebrow: W ŚRODKU TING RADIO
+discovery_eyebrow: W ŚRODKU TuneRadar
 discovery_title: "Znajdź stację.\nZostań dla odkryć."
-discovery_body: "Od wyboru kolejnej stacji po zapamiętanie piosenki — zobacz, jak działa Ting Radio."
+discovery_body: "Od wyboru kolejnej stacji po zapamiętanie piosenki — zobacz, jak działa TuneRadar."
 discovery_note: "Odkrywanie uwzględnia Twoje preferencje i historię słuchania. Ulubione i własne adresy stacji pozwalają mieć swój radiowy zakątek zawsze blisko."
 discovery_items:
   - {name: Jazz, detail: Wolniejsze popołudnie., image: jazz.webp, alt: Saksofon w ciepłym świetle, kind: Gatunek}
@@ -73,14 +73,14 @@ devices:
 faq_eyebrow: ZANIM ZACZNIESZ SŁUCHAĆ
 faq_title: Kilka przydatnych informacji.
 faqs:
-  - question: Czy Ting Radio jest bezpłatne?
-    answer: "Ting Radio można pobrać bezpłatnie. Zawiera codzienne słuchanie radia, ulubione, własne stacje i gotowe czasy wyłącznika. Pro dodaje więcej sposobów korzystania ze stacji."
+  - question: Czy TuneRadar jest bezpłatne?
+    answer: "TuneRadar można pobrać bezpłatnie. Zawiera codzienne słuchanie radia, ulubione, własne stacje i gotowe czasy wyłącznika. Pro dodaje więcej sposobów korzystania ze stacji."
   - question: Czy mogę słuchać offline lub nagrać audycję?
-    answer: "Ting Radio przesyła radio na żywo przez internet. Nie oferuje nagrań offline ani powtórek audycji. Stacje same kontrolują swoje strumienie, treści i dostępność."
+    answer: "TuneRadar przesyła radio na żywo przez internet. Nie oferuje nagrań offline ani powtórek audycji. Stacje same kontrolują swoje strumienie, treści i dostępność."
   - question: Czy wszystko zsynchronizuje się między urządzeniami?
-    answer: "Ting Radio obsługuje synchronizację stacji między iPhonem i sparowanym Apple Watch. Nie obiecuje pełnej synchronizacji biblioteki przez konto na wszystkich platformach."
+    answer: "TuneRadar obsługuje synchronizację stacji między iPhonem i sparowanym Apple Watch. Nie obiecuje pełnej synchronizacji biblioteki przez konto na wszystkich platformach."
   - question: Czy Pro usuwa reklamy ze stacji radiowych?
-    answer: "Reklamy nadawane przez stację są częścią jej strumienia dźwięku. Ting Radio nie może ich usunąć, a Pro nie obejmuje usuwania reklam."
+    answer: "Pro usuwa reklamy w aplikacji. Reklamy emitowane przez same stacje pozostają bez zmian."
 cta_eyebrow: ZAWSZE COŚ GRA
 cta_title: Znajdź kolejną ulubioną częstotliwość.
 cta_body: Zrób trochę miejsca na muzykę, głosy i świat wokół.
@@ -90,24 +90,24 @@ footer_privacy: Polityka prywatności
 footer_terms: Warunki korzystania
 privacy_url: /privacypolicy/
 terms_url: /termsofservice/
-back_home: Powrót do Ting Radio
-legal_context: O Ting Radio
+back_home: Powrót do TuneRadar
+legal_context: O TuneRadar
 not_found_title: Ta częstotliwość milczy.
-not_found_body: Strona, której szukasz, mogła zostać przeniesiona. Wróćmy do Ting Radio.
+not_found_body: Strona, której szukasz, mogła zostać przeniesiona. Wróćmy do TuneRadar.
 screens_note: Na ilustracjach pokazano angielski interfejs aplikacji.
 showcase_items:
   - image: genres-en.webp
     title: Znajdź swoją częstotliwość
     body: Przeglądaj według gatunku, nastroju, regionu lub języka. Daj się prowadzić ciekawości.
-    alt: Angielska przeglądarka gatunków Ting Radio na iPhonie z kategoriami muzyki i miniodtwarzaczem
+    alt: Angielska przeglądarka gatunków TuneRadar na iPhonie z kategoriami muzyki i miniodtwarzaczem
   - image: player-en.webp
     title: Zanurz się w dźwięku
     body: Twoja stacja, informacje o utworze i potrzebne sterowanie w jednym miejscu.
-    alt: Angielski odtwarzacz Ting Radio na iPhonie odtwarza Classic Vinyl HD i pokazuje wizualizację dźwięku
+    alt: Angielski odtwarzacz TuneRadar na iPhonie odtwarza Classic Vinyl HD i pokazuje wizualizację dźwięku
   - image: song-history-en.webp
     title: Zapamiętaj, co grało
     body: Wróć do informacji o utworze i stacji, na której zabrzmiał.
-    alt: Angielska historia utworów Ting Radio na iPhonie z piosenkami usłyszanymi na Classic Vinyl HD i Frisky
+    alt: Angielska historia utworów TuneRadar na iPhonie z piosenkami usłyszanymi na Classic Vinyl HD i Frisky
 features_eyebrow: SŁUCHAJ PO SWOJEMU
 features_title: Więcej w każdej chwili słuchania.
 features_body: Codzienne funkcje są bezpłatne. Pro dodaje więcej sposobów korzystania ze stacji.
@@ -136,4 +136,4 @@ feature_items:
     title: Budzenie z radiem
     body: Wybierz stację na poranek. Po alarmie systemowym stuknij „Otwórz stację”, aby zacząć słuchać.
     entitlement: Pro · iOS 26+
-everyday_image_alt: Angielski wyłącznik czasowy Ting Radio na iPhonie z gotowymi czasami i opcją własnego ustawienia
+everyday_image_alt: Angielski wyłącznik czasowy TuneRadar na iPhonie z gotowymi czasami i opcją własnego ustawienia

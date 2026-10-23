@@ -2,8 +2,8 @@ lang: nl
 locale: nl_NL
 home: /nl/
 language_label: Kies een taal
-title: "Ting Radio — De wereld, op jouw golflengte"
-description: "Ontdek live radio, onthoud je favoriete nummers en maak ruimte om te luisteren met Ting Radio. Vind je volgende favoriete station."
+title: "TuneRadar — De wereld, op jouw golflengte"
+description: "Ontdek live radio, onthoud je favoriete nummers en maak ruimte om te luisteren met TuneRadar. Vind je volgende favoriete station."
 skip: Naar de inhoud
 nav_label: Hoofdnavigatie
 nav_discover: De app
@@ -17,16 +17,16 @@ hero_title_2: op jouw ritme.
 hero_body: "Ontdek live radio, herken de nummers die je hoort en houd je favorieten dichtbij. Een native app voor je Apple-apparaten."
 hero_link: Neem een kijkje in de app
 hero_note: "Gratis te downloaden · Gemaakt voor je Apple-apparaten"
-hero_image_alt: Ting Radio speelt Classic Vinyl HD op iPhone, met nummerinformatie en een audiovisualisatie
+hero_image_alt: TuneRadar speelt Classic Vinyl HD op iPhone, met nummerinformatie en een audiovisualisatie
 hero_caption: Een beetje ruimte om te luisteren.
 hero_tag_1: Je volgende jazzmiddag
 hero_tag_2: Rust om je te concentreren
 hero_tag_3: Ergens waar je nog niet was
-intro_label: Een nieuw hoofdstuk voor Ting Radio
+intro_label: Een nieuw hoofdstuk voor TuneRadar
 intro_text: "Minder zoeken. Meer luisteren. Een vernieuwde native app die nieuwe ontdekkingen, je favoriete stations en de nummers die je onderweg tegenkomt dichter bij elkaar brengt."
-discovery_eyebrow: IN TING RADIO
+discovery_eyebrow: IN TuneRadar
 discovery_title: "Vind een station.\nBlijf ontdekken."
-discovery_body: "Van je volgende station kiezen tot een nummer onthouden: zo werkt Ting Radio."
+discovery_body: "Van je volgende station kiezen tot een nummer onthouden: zo werkt TuneRadar."
 discovery_note: "Ontdekken houdt rekening met je voorkeuren en luistergeschiedenis. Favorieten en eigen station-URL’s houden jouw stukje radio dichtbij."
 discovery_items:
   - {name: Jazz, detail: Een middag zonder haast., image: jazz.webp, alt: Een saxofoon in warm licht, kind: Genre}
@@ -73,14 +73,14 @@ devices:
 faq_eyebrow: VOORDAT JE AFSTEMT
 faq_title: Een paar dingen om te weten.
 faqs:
-  - question: Is Ting Radio gratis?
-    answer: "Ting Radio is gratis te downloaden. Dagelijks radio luisteren, favorieten, aangepaste stations en vaste duren voor de slaaptimer zijn inbegrepen. Pro biedt meer manieren om van je stations te genieten."
+  - question: Is TuneRadar gratis?
+    answer: "TuneRadar is gratis te downloaden. Dagelijks radio luisteren, favorieten, aangepaste stations en vaste duren voor de slaaptimer zijn inbegrepen. Pro biedt meer manieren om van je stations te genieten."
   - question: Kan ik offline luisteren of een programma opnemen?
-    answer: "Ting Radio streamt live radio via internet. De app biedt geen offline opnamen of terugluisteren van programma’s. Stations bepalen zelf hun streams, inhoud en beschikbaarheid."
+    answer: "TuneRadar streamt live radio via internet. De app biedt geen offline opnamen of terugluisteren van programma’s. Stations bepalen zelf hun streams, inhoud en beschikbaarheid."
   - question: Wordt alles tussen mijn apparaten gesynchroniseerd?
-    answer: "Ting Radio ondersteunt de synchronisatie van stations tussen iPhone en de gekoppelde Apple Watch. Volledige synchronisatie van de bibliotheek via een account op alle platforms wordt niet beloofd."
+    answer: "TuneRadar ondersteunt de synchronisatie van stations tussen iPhone en de gekoppelde Apple Watch. Volledige synchronisatie van de bibliotheek via een account op alle platforms wordt niet beloofd."
   - question: Verwijdert Pro advertenties van radiostations?
-    answer: "Advertenties die een station uitzendt, maken deel uit van de eigen audiostream. Ting Radio kan ze niet verwijderen en Pro biedt geen verwijdering van advertenties."
+    answer: "Pro verwijdert advertenties in de app. Reclame die zenders zelf uitzenden, blijft hoorbaar."
 cta_eyebrow: ER IS ALTIJD IETS TE HOREN
 cta_title: Vind je volgende favoriete frequentie.
 cta_body: Maak een beetje ruimte voor muziek, stemmen en de wereld buiten.
@@ -90,24 +90,24 @@ footer_privacy: Privacybeleid
 footer_terms: Gebruiksvoorwaarden
 privacy_url: /privacypolicy/
 terms_url: /termsofservice/
-back_home: Terug naar Ting Radio
-legal_context: Over Ting Radio
+back_home: Terug naar TuneRadar
+legal_context: Over TuneRadar
 not_found_title: Deze frequentie is stil.
-not_found_body: De pagina die je zoekt is misschien verplaatst. We brengen je terug naar Ting Radio.
+not_found_body: De pagina die je zoekt is misschien verplaatst. We brengen je terug naar TuneRadar.
 screens_note: De getoonde appschermen zijn in het Engels.
 showcase_items:
   - image: genres-en.webp
     title: Vind jouw frequentie
     body: Blader op genre, stemming, regio of taal. Volg je nieuwsgierigheid.
-    alt: Het Engelstalige genreoverzicht van Ting Radio op iPhone, met muziekcategorieën en een minispeler
+    alt: Het Engelstalige genreoverzicht van TuneRadar op iPhone, met muziekcategorieën en een minispeler
   - image: player-en.webp
     title: Laat het geluid binnen
     body: Je station, de nummerinformatie en de bediening die je nodig hebt op één plek.
-    alt: De Engelstalige speler van Ting Radio op iPhone speelt Classic Vinyl HD met audiovisualisatie
+    alt: De Engelstalige speler van TuneRadar op iPhone speelt Classic Vinyl HD met audiovisualisatie
   - image: song-history-en.webp
     title: Onthoud wat je hoort
     body: Bekijk de informatie over een nummer en het station waar je het ontdekte.
-    alt: De Engelstalige nummergeschiedenis van Ting Radio op iPhone toont nummers van Classic Vinyl HD en Frisky
+    alt: De Engelstalige nummergeschiedenis van TuneRadar op iPhone toont nummers van Classic Vinyl HD en Frisky
 features_eyebrow: JOUW MANIER VAN LUISTEREN
 features_title: Elke keer iets meer.
 features_body: De functies voor elke dag zijn inbegrepen. Pro biedt meer manieren om van je stations te genieten.
@@ -136,4 +136,4 @@ feature_items:
     title: Radiowekker
     body: Kies een station voor je ochtendroutine. Tik op Open station nadat het systeemalarm is afgegaan om te luisteren.
     entitlement: Pro · iOS 26+
-everyday_image_alt: De Engelstalige slaaptimer van Ting Radio op iPhone, met vaste duren en een optie voor een eigen duur
+everyday_image_alt: De Engelstalige slaaptimer van TuneRadar op iPhone, met vaste duren en een optie voor een eigen duur

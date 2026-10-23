@@ -1,4 +1,4 @@
-# Ting Radio landing 改版记录
+# TuneRadar landing 改版记录
 
 ## 范围与默认方向
 

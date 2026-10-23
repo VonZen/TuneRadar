@@ -1,6 +1,6 @@
-# Ting Radio website
+# TuneRadar website
 
-Official multilingual landing page for Ting Radio. Built with GitHub Pages / Jekyll, native HTML, CSS, and a small progressive-enhancement script.
+Official multilingual landing page for TuneRadar. Built with GitHub Pages / Jekyll, native HTML, CSS, and a small progressive-enhancement script.
 
 ## Local preview
 

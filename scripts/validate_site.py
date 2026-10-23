@@ -172,7 +172,7 @@ for path, page in pages.items():
 for private in ("docs", "scripts", "vendor", "Gemfile", "README.md", ".DS_Store"):
     if (SITE / private).exists():
         errors.append(f"private source included in output: {private}")
-for required in ("sitemap.xml", "robots.txt", "assets/images/social.jpg"):
+for required in ("sitemap.xml", "robots.txt", "assets/images/social-tuneradar.png"):
     if not (SITE / required).is_file():
         errors.append(f"missing search/share asset: {required}")
 sitemap = SITE / "sitemap.xml"

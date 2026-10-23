@@ -1,4 +1,4 @@
-title: Ting Radio
+title: TuneRadar
 default_language: en
 url: https://vonzen.github.io
 baseurl: /TingRadio
@@ -32,3 +32,4 @@ exclude:
   - assets/yellow.png
   - assets/headerimage.png
   - assets/playstore.png
+  - assets/images/social.jpg
