@@ -11,7 +11,7 @@ rtk proxy bundle install --jobs 1
 rtk proxy bundle exec jekyll serve --host 127.0.0.1
 ```
 
-Open `http://127.0.0.1:4000/TingRadio/` for English. Other languages use their own paths, including `/zh/`, `/zh-hant/`, `/es/`, `/de/`, `/fr/`, `/ru/`, `/it/`, `/el/`, `/nl/`, `/pl/` and `/pt/`. If your default Ruby is 4, select a Ruby 3.3 executable for Bundler without changing the system default.
+Open `http://127.0.0.1:4000/TuneRadar/` for English. Other languages use their own paths, including `/zh/`, `/zh-hant/`, `/es/`, `/de/`, `/fr/`, `/ru/`, `/it/`, `/el/`, `/nl/`, `/pl/` and `/pt/`. If your default Ruby is 4, select a Ruby 3.3 executable for Bundler without changing the system default.
 
 ## Validate
 

@@ -1,4 +1,4 @@
-/* Ting Radio uses the native app's warm palette, with a darker orange for readable actions. */
+/* TuneRadar uses the native app's warm palette, with a darker orange for readable actions. */
 :root { --paper:#fffaf6; --surface:#fff0e6; --ink:#29231f; --muted:#655a53; --accent:#ad4300; --orange:#e05e0c; --line:#e5d9d0; --radius:1.25rem; --max:78rem; --ease:cubic-bezier(.22,1,.36,1); }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; scroll-padding-top:7rem; }

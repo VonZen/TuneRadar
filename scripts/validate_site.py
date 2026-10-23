@@ -10,7 +10,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "_site"
-BASE = "/TingRadio"
+BASE = "/TuneRadar"
 ORIGIN = "https://vonzen.github.io"
 LOCALES = json.loads((ROOT / "_data/languages.json").read_text())
 GROUPS = {"home": "", "privacy": "privacypolicy/", "terms": "termsofservice/"}

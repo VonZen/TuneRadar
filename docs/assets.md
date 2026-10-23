@@ -4,7 +4,7 @@
 
 | 网站素材 | App 原始素材 | 处理 |
 | --- | --- | --- |
-| vinyl.webp | TingRadioCategoryIcons.xcassets/OnboardingWelcomeVinyl.imageset/OnboardingWelcomeVinyl.png | 原图转 WebP |
+| vinyl.webp | TuneRadarCategoryIcons.xcassets/OnboardingWelcomeVinyl.imageset/OnboardingWelcomeVinyl.png | 原图转 WebP |
 | jazz.webp / classical.webp | discovery_genre_jazz / discovery_genre_classical 的 jpg | 原图转 WebP |
 | focus.webp / chill.webp / sleep.webp | discovery_mood_focus / discovery_mood_chill / discovery_mood_sleep 的 jpg | 原图转 WebP |
 | brand-mark.png | Ting.icon/Assets/icon.png | 缩小至 256px |
