@@ -11,7 +11,7 @@ translation_key: privacy
 
 # Privacy policy
 
-Last updated: 12 October 2026
+Last updated: 24 October 2026
 
 TuneRadar is developed and maintained by Vonzen. This policy covers the TuneRadar app, its website and support correspondence. For questions or privacy requests, contact [vonzenappstudio@gmail.com](mailto:vonzenappstudio@gmail.com).
 
@@ -26,6 +26,14 @@ Listening does not require you to provide your name, phone number, postal addres
 The app stores favourites, custom station addresses, recent stations, listening and song history, search history, discovery preferences, feature allowance state, alarm settings and cached artwork or song information in local settings or files. These support your library, recommendations and app functionality. Song history contains song information; it is not an audio recording.
 
 Your paired iPhone and Apple Watch can exchange station favourites, recent and custom stations, discovery region and Pro status through Apple's WatchConnectivity framework. This is companion synchronisation, rather than a TuneRadar cloud account shared across all devices.
+
+### Optional iCloud synchronisation
+
+When you turn on iCloud Sync in Settings > Data > iCloud Sync, TuneRadar stores your favourites, My Stations and their order, listening history and song history in the private CloudKit database of your current iCloud account. This includes station and song information, custom stream addresses, listening times and counts, and identifiers, timestamps and deletion markers needed to merge changes and resolve conflicts across devices. Custom stream addresses may contain credentials or access tokens if you include them in the URL; avoid saving unnecessary sensitive information in an address.
+
+Apple provides iCloud and processes this information under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). TuneRadar uses your signed-in iCloud account to synchronise this library between your devices; you do not need a separate TuneRadar account or a Pro purchase. This feature does not upload audio recordings, lyrics text or playback caches. Availability depends on your iCloud account, settings, storage and Apple services.
+
+Turning iCloud Sync off pauses subsequent synchronisation and keeps both the local library and existing iCloud data. Turning it back on resumes merging changes. Switching iCloud accounts keeps each account's sync data separate. Removing local app data or uninstalling the app does not by itself delete the library already stored in iCloud. Deletions made through library and history controls are synchronised when iCloud Sync is on. This removes entries from the synced library view; underlying station, song and event records, along with deletion and conflict-resolution information, may remain in iCloud. You can also manage the app's iCloud data through Apple's iCloud storage controls where available.
 
 On supported iPhones, radio wake-up uses Apple's AlarmKit. With your permission, the app gives the system the alarm time, repeat schedule and related station information needed to arrange the alarm.
 
@@ -97,7 +105,7 @@ You can stop playback and leave the relevant feature, or fully quit the app, to 
 
 Depending on the law that applies to you, you may request access, correction, deletion or a portable copy of personal information, object to or restrict its processing, withdraw consent where processing relies on it, or complain to the relevant privacy authority. Contact [vonzenappstudio@gmail.com](mailto:vonzenappstudio@gmail.com) with the request and enough information to locate the relevant records. We may need to verify your authority to make the request and will respond within applicable legal deadlines.
 
-Our ability to act is limited to information we hold or control. We cannot remotely retrieve or erase your device's local library, and independent providers may need to handle requests about their own records. We will explain applicable limits, including information that must be retained to meet legal obligations. Withdrawing consent does not affect processing that was lawful before withdrawal.
+Our ability to act is limited to information we hold or control. We cannot remotely retrieve or erase your device's local library or the library in your private iCloud database. Use the app's library controls and Apple's iCloud storage controls, as described above. Independent providers may need to handle requests about their own records. We will explain applicable limits, including information that must be retained to meet legal obligations. Withdrawing consent does not affect processing that was lawful before withdrawal.
 
 We may disclose information we hold when required by law or when necessary and legally permitted to investigate abuse, address a rights claim or protect people and services. Any such disclosure will be limited to information relevant to that purpose.
 
