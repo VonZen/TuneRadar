@@ -10,8 +10,8 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "_site"
-BASE = "/TuneRadar"
-ORIGIN = "https://vonzen.github.io"
+BASE = ""
+ORIGIN = "https://tuneradar.10131501.xyz"
 LOCALES = json.loads((ROOT / "_data/languages.json").read_text())
 GROUPS = {"home": "", "privacy": "privacypolicy/", "terms": "termsofservice/"}
 errors = []
@@ -153,7 +153,7 @@ for path, page in pages.items():
             errors.append(f"empty URL: {path}")
             continue
         url = urlparse(urljoin(source_url, raw))
-        if url.scheme not in ("http", "https") or url.netloc != "vonzen.github.io":
+        if url.scheme not in ("http", "https") or url.netloc != "tuneradar.10131501.xyz":
             continue
         if not url.path.startswith(BASE + "/"):
             errors.append(f"link escapes project base path: {path}: {raw}")
